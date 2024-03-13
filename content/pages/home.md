@@ -41,7 +41,7 @@ blocks:
         text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
       - icon:
           name: BiPalette
-          color: green
+          color: purple
           style: float
         title: Configurable Theme
         text: >-
